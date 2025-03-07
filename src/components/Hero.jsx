@@ -46,7 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              DevOps Engineer | Aws Engineer | Docker <br className="sm:block hidden" />
+              DevOps Engineer | Aws Engineer | Docker | Kubernates <br className="sm:block hidden" />
               Turning ideas into scalable, efficient, and elegant solutions.
             </p>
           </div>
