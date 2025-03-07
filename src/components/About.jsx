@@ -37,11 +37,11 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        As a passionate full stack developer, I thrive at the intersection of creativity and functionality, 
-        crafting robust backend systems and intuitive user interfaces. My journey is fueled by a vision to 
-        grow into a full-stack entrepreneur, building applications that solve real-world challenges and create meaningful impact. 
-        From designing scalable APIs to ensuring a polished frontend, my focus remains on delivering high-quality solutions 
-        that stand out in an ever-evolving tech landscape.
+        An AWS DevOps Engineer is responsible for managing and automating infrastructure, deployment pipelines,
+        and application environments on Amazon Web Services (AWS). They work to streamline development, testing, and deployment
+        processes using tools like CloudFormation, CodePipeline, and EC2. Their role involves ensuring high availability,
+        scalability, and security of applications, as well as continuous integration and continuous delivery
+       (CI/CD) automation in cloud environments.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
